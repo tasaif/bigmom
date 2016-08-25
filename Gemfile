@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'omniauth-google-oauth2'
 gem 'slim-rails'
 gem 'pry'
 gem 'dotenv-rails'
